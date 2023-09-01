@@ -13,7 +13,7 @@ class PerguntaApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final perguntas = [
-      'Qual é a sua cor favorita?',
+      'Qual é a sua cor favorita renato?',
       'Qual é o seu animal favorito',
     ];
     return MaterialApp(
